@@ -72,7 +72,7 @@ cid:173 pid:092921211 hcl:#602927 ecl:grn
 
 hcl:#733820
 iyr:2016 eyr:2029
-ecl:hzl hgt:180cm pid:292904469byr:1984
+ecl:hzl hgt:180cm pid:292904469 byr:1984
 
 ecl:amb pid:901224456 hgt:190cm
 iyr:2013
@@ -997,5 +997,3 @@ hcl:#bc352c pid:321838059 byr:1930 hgt:178cm cid:213 eyr:2023 ecl:amb
 iyr:2017
 
 hgt:173cm byr:1925 pid:070222017 iyr:2013 hcl:#ceb3a1 ecl:gry eyr:2024
- 
-exit
